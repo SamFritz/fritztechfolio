@@ -54,7 +54,9 @@
       "website": "https://archivesunleashed.org/",
       "startDate": "2017",
       "endDate": "Present",
-      "summary": "Project Leadership, Oversight, and Management; Scholarly Support + Resources; Community Engagement; UX Testing"
+      "labels": "Project Leadership, Oversight, and Management; Scholarly Support + Resources; Community Engagement; UX Testing"
+      "highlights": [
+      ]
     },
     {
       "company": "Independent Consulting",
@@ -62,6 +64,8 @@
       "startDate": "2014",
       "endDate": "2017",
       "summary": "Research Consultation; Digital Repository Management; Records Management"
+      "highlights": [
+      ]
     },
     {
       "company": "Social Media Lab, Netlytic, Toronto Metropolitan Universiy (formerly Ryerson University)",
@@ -69,6 +73,8 @@
       "startDate": "2014",
       "endDate": "2016",
       "summary": "Instructional and Resource Design; Community Engagment; Social Media Research; Research Support; Website Management"
+      "highlights": [
+      ]
     },
     {
       "company": "Islandora Foundation",
@@ -76,6 +82,8 @@
       "startDate": "April 2014",
       "endDate": "Oct 2014",
       "summary": "Event Planning; Administrative Report; Records Management; Community Engagement; Website Managemen (Drupal)"
+      "highlights": [
+      ]
     },
     {
       "company": "Dalhousie University Killam Memorial Library",
@@ -83,6 +91,8 @@
       "startDate": "2013",
       "endDate": "2014",
       "summary": "Reference + Research Support; Search Strategies; Catalogues + Databases; Special Collections; Technical Support; Policy Development"
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [
