@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/AULogo.png
+image: img/vacay/AULogoBox.png
 title: "Archives Unleashed Project"
 date: 2017
 published: true
