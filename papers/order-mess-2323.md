@@ -1,6 +1,3 @@
-Nick Ruest, Samantha Fritz, and Ian Milligan. “Creating order from the mess: web archive derivative datasets and notebooks.” Archives and Records, 2022. [link]
-
-
 ---
 layout: paper
 type: paper
