@@ -5,13 +5,13 @@
     "picture": "https://github.com/samfritz.png",
     "email": "svefritz@gmail.com",
     "website": "https://samfritz.github.io",
-    "summary": "She is an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. Samantha is driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
-    "location": { "address": "", "postalCode": "96822", "city": "Hamilton", "countryCode": "Canada" },
+    "summary": "I am an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. Having worked nearly a decade with academic researchers, I am driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
     "profiles": [
       { "network": "github", "username": "SamFritz", "url": "http://github.com/SamFritz" },
       { "network": "linkedin", "username": "SamVFritz", "url": "https://www.linkedin.com/in/samvfritz/" },
       { "network": "twitter", "username": "SamVFritz", "url": "https://twitter.com/SamVFritz" },
-      { "network": "instagram", "username": "SamFritz", "url": "http://instagram.com/SamFritz" }
+      { "network": "google scholar", "username": "Samantha Fritz", "url": "https://scholar.google.com/citations?user=Gt-k7XEAAAAJ&hl=en" },
+      { "network": "instagram", "username": "SamVFritz", "url": "http://instagram.com/SamVFritz" }
     ]
   },
   "interests": [
@@ -23,23 +23,28 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Data Analysis",
+      "keywords": [ "Netlytic", "Gephi", "OpenRefine", "Voyant" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Dalhousie University",
+      "studyType": "MLIS",
+      "startDate": "2012",
+      "endDate": "2014",
+      "courses": [ ]
+    },
+    {
+      "institution": "University of Waterloo",
+      "studyType": "B.A. (Hon.) History, Minor in Englisht Literature",
+      "startDate": "2007",
+      "endDate": "2012",
+      "courses": [ ]
     }
   ],
   "work": [
