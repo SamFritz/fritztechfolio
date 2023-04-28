@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Samantha Fritz",
+    "label": "Project Manager | Information Superhero | Open Access Champion | INFJ ",
+    "picture": "https://github.com/samfritz.png",
+    "email": "svefritz@gmail.com",
+    "website": "https://samfritz.github.io",
+    "summary": "I am an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. \\n Having worked nearly a decade with academic researchers, I am driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
+    "profiles": [
+      { "network": "github", "username": "SamFritz", "url": "http://github.com/SamFritz" },
+      { "network": "linkedin", "username": "SamVFritz", "url": "https://www.linkedin.com/in/samvfritz/" },
+      { "network": "twitter", "username": "SamVFritz", "url": "https://twitter.com/SamVFritz" },
+      { "network": "google", "username": "Samantha Fritz", "url": "https://scholar.google.com/citations?user=Gt-k7XEAAAAJ&hl=en" },
+      { "network": "instagram", "username": "SamVFritz", "url": "http://instagram.com/SamVFritz" }
+    ]
+  },
+  "interests": [
+    { "name": "Libraries" },
+    { "name": "Digital Humanities" },
+    { "name": "Research" },
+    { "name": "Web Archives" },
+    { "name": "Instructional Design" }
+  ],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "keywords": [ "Netlytic", "Gephi", "OpenRefine", "Voyant" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Microsoft", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dalhousie University",
+      "area": "Information Management",
+      "studyType": "MLIS",
+      "startDate": "2012",
+      "endDate": "2014",
+      "courses": [ ]
+    },
+    {
+      "institution": "University of Waterloo",
+      "area": "Humanities",
+      "studyType": "B.A. (Hon.) History, Minor in English Literature",
+      "startDate": "2007",
+      "endDate": "2012",
+      "courses": [ ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Archives Unleashed Project, University of Waterloo",
+      "position": "Project Manager",
+      "website": "https://archivesunleashed.org/",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Project Leadership, Oversight, and Management; Scholarly Support + Resources; Community Engagement; UX Testing",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Independent Consulting",
+      "position": "Research Manager",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Research Consultation; Digital Repository Management; Records Management",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Social Media Lab, Netlytic, Toronto Metropolitan University (formerly Ryerson University)",
+      "position": "Community Engagement Manager",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Instructional and Resource Design; Community Engagment; Social Media Research; Research Support; Website Management",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Islandora Foundation",
+      "position": "Interim Project and Community Engagement Manager",
+      "startDate": "2014-04-01",
+      "endDate": "2014-10-31",
+      "summary": "Event Planning; Administrative Report; Records Management; Community Engagement; Website Managemen (Drupal)",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Dalhousie University Killam Memorial Library",
+      "position": "Reference and Research Intern",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Reference + Research Support; Search Strategies; Catalogues + Databases; Special Collections; Technical Support; Policy Development",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Dalhousie University School of Information Management, Social Media Lab",
+      "position": "Research Assistance",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Dalhousie University School of Information Management",
+      "position": "Teaching Assistant",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "CoinAtlantic (previously known as ACZISC), Halifax, Nova Scotia",
+      "position": "Social Media Strategy Consultant",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "organization": "Digital Library Perspectives",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "ACCESS Conference",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "ACCESS Conference",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "PeerJ Computer Science Journal",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Digital Library Perspectives",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Social Media and Society Conference",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Dalhousie Journal of Interdisciplinary Management",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top 5 posts on COVID-19 Pandemic: A Year in Review",
+      "date": "2021",
+      "awarder": "Research & Publications Committee, Association of College and Research Libraries, Distance & Online Learning Section (ACRL DOLS)",
+      "summary": ""
+    },
+    {
+      "title": "Information Technology Award",
+      "date": "2014",
+      "awarder": "Dalhousie University, School of Information Management",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
