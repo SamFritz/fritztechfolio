@@ -5,7 +5,7 @@
     "picture": "https://github.com/samfritz.png",
     "email": "svefritz@gmail.com",
     "website": "https://samfritz.github.io",
-    "summary": "I am an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. Having worked nearly a decade with academic researchers, I am driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
+    "summary": "I am an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. \\n Having worked nearly a decade with academic researchers, I am driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
     "profiles": [
       { "network": "github", "username": "SamFritz", "url": "http://github.com/SamFritz" },
       { "network": "linkedin", "username": "SamVFritz", "url": "https://www.linkedin.com/in/samvfritz/" },
@@ -124,11 +124,11 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
       "organization": "Digital Library Perspectives",
       "website": "",
-      "position": "",
+      "position": "Peer Reviewer",
       "startDate": "",
       "endDate": "2023",
       "summary": "",
@@ -136,31 +136,78 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "ACCESS Conference",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Peer Reviewer",
       "startDate": "",
-      "endDate": "",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "ACCESS Conference",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "PeerJ Computer Science Journal",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Digital Library Perspectives",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Social Media and Society Conference",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Dalhousie Journal of Interdisciplinary Management",
+      "website": "",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "ACRL DOLS Research & Publications Committee for the Top 5 posts on COVID-19 Pandemic: A Year in Review",
+      "date": "2021",
+      "awarder": "Association of College and Research Libraries, Distance & Online Learning Section (ACRL DOLS)",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Information Technology Award",
+      "date": "2014",
+      "awarder": "Dalhousie University, School of Information Management",
+      "summary": ""
     }
   ],
   "references": [
