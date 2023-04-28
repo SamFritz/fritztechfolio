@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Samantha Fritz",
+    "label": "Project Manager | Information Superhero | Open Access Champion | INFJ ",
+    "picture": "https://github.com/samfritz.png",
+    "email": "svefritz@gmail.com",
+    "website": "https://samfritz.github.io",
+    "summary": "She is an information management professional with a passion for open access, information literacy education, and helping people connect with and make sense of data. Samantha is driven to support information and resource dissemination to positively transform the way researchers view, experience, interpret and share information and knowledge. ",
+    "location": { "address": "", "postalCode": "96822", "city": "Hamilton", "countryCode": "Canada" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "SamFritz", "url": "http://github.com/SamFritz" },
+      { "network": "linkedin", "username": "SamVFritz", "url": "https://www.linkedin.com/in/samvfritz/" },
+      { "network": "twitter", "username": "SamVFritz", "url": "https://twitter.com/SamVFritz" },
+      { "network": "instagram", "username": "SamFritz", "url": "http://instagram.com/SamFritz" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Libraries" },
+    { "name": "Digital Huanities" },
+    { "name": "Research" },
+    { "name": "Web Archives" },
+    { "name": "Instructional Design" }
   ],
   "skills": [
     {
