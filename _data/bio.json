@@ -34,6 +34,7 @@
   "education": [
     {
       "institution": "Dalhousie University",
+      "area": "Information Management",
       "studyType": "MLIS",
       "startDate": "2012",
       "endDate": "2014",
@@ -41,7 +42,8 @@
     },
     {
       "institution": "University of Waterloo",
-      "studyType": "B.A. (Hon.) History, Minor in Englisht Literature",
+      "area": "Humanities",
+      "studyType": "B.A. (Hon.) History, Minor in English Literature",
       "startDate": "2007",
       "endDate": "2012",
       "courses": [ ]
@@ -68,7 +70,7 @@
       ]
     },
     {
-      "company": "Social Media Lab, Netlytic, Toronto Metropolitan Universiy (formerly Ryerson University)",
+      "company": "Social Media Lab, Netlytic, Toronto Metropolitan University (formerly Ryerson University)",
       "position": "Community Engagement Manager",
       "startDate": "2014",
       "endDate": "2016",
@@ -79,8 +81,8 @@
     {
       "company": "Islandora Foundation",
       "position": "Interim Project and Community Engagement Manager",
-      "startDate": "April 2014",
-      "endDate": "Oct 2014",
+      "startDate": "2014-04-01",
+      "endDate": "2014-10-31",
       "summary": "Event Planning; Administrative Report; Records Management; Community Engagement; Website Managemen (Drupal)",
       "highlights": [
       ]
@@ -93,19 +95,44 @@
       "summary": "Reference + Research Support; Search Strategies; Catalogues + Databases; Special Collections; Technical Support; Policy Development",
       "highlights": [
       ]
+    },
+    {
+      "company": "Dalhousie University School of Information Management, Social Media Lab",
+      "position": "Research Assistance",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Dalhousie University School of Information Management",
+      "position": "Teaching Assistant",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "CoinAtlantic (previously known as ACZISC), Halifax, Nova Scotia",
+      "position": "Social Media Strategy Consultant",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+      ]
     }
   ],
-  "volunteer": [
+  "peer-review": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Digital Library Perspectives",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "2023",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
