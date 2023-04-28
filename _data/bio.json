@@ -10,7 +10,7 @@
       { "network": "github", "username": "SamFritz", "url": "http://github.com/SamFritz" },
       { "network": "linkedin", "username": "SamVFritz", "url": "https://www.linkedin.com/in/samvfritz/" },
       { "network": "twitter", "username": "SamVFritz", "url": "https://twitter.com/SamVFritz" },
-      { "network": "google scholar", "username": "Samantha Fritz", "url": "https://scholar.google.com/citations?user=Gt-k7XEAAAAJ&hl=en" },
+      { "network": "google", "username": "Samantha Fritz", "url": "https://scholar.google.com/citations?user=Gt-k7XEAAAAJ&hl=en" },
       { "network": "instagram", "username": "SamVFritz", "url": "http://instagram.com/SamVFritz" }
     ]
   },
@@ -124,7 +124,7 @@
       ]
     }
   ],
-  "peer-review": [
+  "service": [
     {
       "organization": "Digital Library Perspectives",
       "website": "",
